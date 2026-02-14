@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="Your API Key Here")
+client = Groq(api_key="Your_Groq_API_Key")
 
 def llmCall(query):
     response = client.chat.completions.create(
