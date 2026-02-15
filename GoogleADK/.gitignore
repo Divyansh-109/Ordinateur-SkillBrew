@@ -1,4 +1,6 @@
 .env
+.adk
+myagent/.adk/
 adk
 adk/
 __pycache__
