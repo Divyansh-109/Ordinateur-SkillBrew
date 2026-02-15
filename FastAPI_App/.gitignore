@@ -1,0 +1,4 @@
+.env
+fast
+fast/
+__pycache__
